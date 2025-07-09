@@ -18,6 +18,9 @@ heads:
     'humaniod':
       name: "humaniod"
       valid-version: 1.0.0
+    'humans':
+      name: "humans"
+      valid-version: 1.0.0
     'miscellaneous':
       name: "miscellaneous"
       valid-version: 1.0.0
